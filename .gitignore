@@ -1,0 +1,9 @@
+# Diretórios de compilação
+out/
+bin/
+target/
+
+# Arquivos de IDE e configurações
+.vscode/
+.idea/
+*.iml
